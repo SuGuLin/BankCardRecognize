@@ -2,7 +2,7 @@ import os
 import numpy as np 
 from os import getcwd
 import cv2
-# import PIL.Image
+import PIL.Image
 import random
 import copy
 import multiprocessing
@@ -182,7 +182,6 @@ def main(img,img_name,annotation):
     count = 1
     for i in range(5):
         count = concat(img,img_name,count,annotation,img_list) #1
-        
     print(img_name + "增强完成")
 
 
@@ -206,7 +205,7 @@ if __name__ == '__main__':
 
     '''
     多进程处理数据，windows下测试出错
-    '''
+    
     pool = multiprocessing.Pool(10)
     for img_name in img_list:
         img = cv2.imread(PATH + img_name ,-1)
@@ -214,12 +213,12 @@ if __name__ == '__main__':
     pool.close()
     pool.join()
     
-    '''
+    
     非多进程处理数据
     '''
-    # for img_name in img_list:
-    #     img = cv2.imread(PATH + img_name,-1)
-    #     main(img,img_name,annotation)
+    for img_name in img_list:
+        img = cv2.imread(PATH + img_name,-1)
+        main(img,img_name,annotation)
 
     train_file = open('train.txt','w')
     val_file = open('val.txt','w')
