@@ -1,0 +1,108 @@
+train_img/0000e_0.png 0 0 0 0
+train_img/0001c_0.png 0 0 0 1
+train_img/0001o_0.png 0 0 0 1
+train_img/0002a_0.png 0 0 0 2
+train_img/0003a_0.png 0 0 0 3
+train_img/0003r_0.png 0 0 0 3
+train_img/0008x_0.png 0 0 0 8
+train_img/0010x_0.png 0 0 1 0
+train_img/0011p_0.png 0 0 1 1
+train_img/0012p_0.png 0 0 1 2
+train_img/0012v_0.png 0 0 1 2
+train_img/0020a_0.png 0 0 2 0
+train_img/0025b_0.png 0 0 2 5
+train_img/0041a_0.png 0 0 4 1
+train_img/0055c_0.png 0 0 5 5
+train_img/0065b_0.png 0 0 6 5
+train_img/0080x_0.png 0 0 8 0
+train_img/0108x_0.png 0 1 0 8
+train_img/0118p_0.png 0 1 1 8
+train_img/0248b_0.png 0 2 4 8
+train_img/0277u_0.png 0 2 7 7
+train_img/0344a_0.png 0 3 4 4
+train_img/0346b_0.png 0 3 4 6
+train_img/0397r_0.png 0 3 9 7
+train_img/0594y_0.png 0 5 9 4
+train_img/0_09c_0.png 0 0 9
+train_img/1000e_0.png 1 0 0 0
+train_img/1005k_0.png 1 0 0 5
+train_img/1100f_0.png 1 1 0 0
+train_img/1111a_0.png 1 1 1 1
+train_img/1226c_0.png 1 2 2 6
+train_img/1234j_0.png 1 2 3 4
+train_img/14_6b_0.png 1 4 6
+train_img/1640a_0.png 1 6 4 0
+train_img/1711b_0.png 1 7 1 1
+train_img/1970x_0.png 1 9 7 0
+train_img/2027u_0.png 2 0 2 7
+train_img/2122c_0.png 2 1 2 2
+train_img/2129c_0.png 2 1 2 9
+train_img/214_n_0.png 2 1 4
+train_img/2188r_0.png 2 1 8 8
+train_img/2208x_0.png 2 2 0 8
+train_img/2226o_0.png 2 2 2 6
+train_img/2284c_0.png 2 2 8 4
+train_img/2370b_0.png 2 3 7 0
+train_img/2543x_0.png 2 5 4 3
+train_img/260_a_0.png 2 6 0
+train_img/2616k_0.png 2 6 1 6
+train_img/2678k_0.png 2 6 7 8
+train_img/2678x_0.png 2 6 7 8
+train_img/26_7b_0.png 2 6 7
+train_img/2848j_0.png 2 8 4 8
+train_img/28_5f_0.png 2 8 5
+train_img/3003a_0.png 3 0 0 3
+train_img/3100e_0.png 3 1 0 0
+train_img/3100v_0.png 3 1 0 0
+train_img/338_e_0.png 3 3 8
+train_img/3568p_0.png 3 5 6 8
+train_img/3587x_0.png 3 5 8 7
+train_img/3626a_0.png 3 6 2 6
+train_img/39_2e_0.png 3 9 2
+train_img/4000b_0.png 4 0 0 0
+train_img/4139a_0.png 4 1 3 9
+train_img/4563x_0.png 4 5 6 3
+train_img/4607a_0.png 4 6 0 7
+train_img/4871b_0.png 4 8 7 1
+train_img/4910e_0.png 4 9 1 0
+train_img/500_a_0.png 5 0 0
+train_img/5023e_0.png 5 0 2 3
+train_img/5040a_0.png 5 0 4 0
+train_img/5184r_0.png 5 1 8 4
+train_img/5201j_0.png 5 2 0 1
+train_img/53_3f_0.png 5 3 3
+train_img/5400j_0.png 5 4 0 0
+train_img/5808a_0.png 5 8 0 8
+train_img/5879x_0.png 5 8 7 9
+train_img/5_00a_0.png 5 0 0
+train_img/6048k_0.png 6 0 4 8
+train_img/6049a_0.png 6 0 4 9
+train_img/6188c_0.png 6 1 8 8
+train_img/6216l_0.png 6 2 1 6
+train_img/6217b_0.png 6 2 1 7
+train_img/6217c_0.png 6 2 1 7
+train_img/6217h_0.png 6 2 1 7
+train_img/6217m_0.png 6 2 1 7
+train_img/6360k_0.png 6 3 6 0
+train_img/6719e_0.png 6 7 1 9
+train_img/6821b_0.png 6 8 2 1
+train_img/6826x_0.png 6 8 2 6
+train_img/6901j_0.png 6 9 0 1
+train_img/69_8b_0.png 6 9 8
+train_img/7012r_0.png 7 0 1 2
+train_img/7107k_0.png 7 1 0 7
+train_img/7110a_0.png 7 1 1 0
+train_img/7110d_0.png 7 1 1 0
+train_img/7190a_0.png 7 1 9 0
+train_img/7444o_0.png 7 4 4 4
+train_img/7663e_0.png 7 6 6 3
+train_img/7908x_0.png 7 9 0 8
+train_img/811_b_0.png 8 1 1
+train_img/8888t_0.png 8 8 8 8
+train_img/9011a_0.png 9 0 1 1
+train_img/9100y_0.png 9 1 0 0
+train_img/9950b_0.png 9 9 5 0
+train_img/_020a_0.png 0 2 0
+train_img/_622a_0.png 6 2 2
+train_img/_622c_0.png 6 2 2
+train_img/_622m_0.png 6 2 2
